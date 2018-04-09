@@ -28,6 +28,7 @@ var widgets = [
   "inputmask",
   "icheck",
   "jquery-bar-rating",
+  "jquery-star-rating",
   "signature_pad",
   "sortablejs",
   "nouislider",
